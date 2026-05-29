@@ -2,3 +2,6 @@
 Hello Git. ok đã cập nhật xong
 
 Thử thêm 1 số thông tin như sau
+
+
+Test lệnh push ở đây
